@@ -1,1 +1,3 @@
 theme: jekyll-theme-slate
+title: OV_WAV - Wavelet analysis in astronomy
+description: Wavelet analysis package for astronomical images, based on the À Trous transform
