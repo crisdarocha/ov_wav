@@ -13,6 +13,6 @@ For details on the usage, please do not hesitate to contact me. I will do my bes
 
 In case of use of the project, we would appreciate a note and in scientific publications, the citation to the papers describing the method.
 
-References:
-Da Rocha C., & Mendes de Oliveira, C. 2005, MNRAS, 364, 1069
+References:  
+Da Rocha C., & Mendes de Oliveira, C. 2005, MNRAS, 364, 1069  
 Da Rocha, C., Ziegler, B. L. & Mendes de Oliveira, C. 2008, MNRAS, 388, 1433
