@@ -5,7 +5,7 @@ This package uses the wavelet transform À Trous, as a multicale method to analy
 
 The code is written in IDL.
 
-For instructions on use, please see USAGE.md.
+For instructions on use, please see [USAGE.md](./docs/USAGE.md)
 
 This project was started in 2000 by Prof. Dr. Carlos Roberto Rabaça in the [Observatório do Valongo/UFRJ](http://www.ov.ufrj.br/en/) in Rio de Janeiro, Brazil as astronomy undergraduate thesis of Daniel Nicolato Epitácio Pereira. [Cristiano da Rocha](https://github.com/crisdarocha) joined the group in 2001, contributing with part of the development in the use case of detection of intragroup light in groups of galaxies.
 
