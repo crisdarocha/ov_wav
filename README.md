@@ -8,6 +8,18 @@ The code is written in IDL.
 
 For instructions on use, please see [USAGE.md](docs/USAGE.md)
 
+## TL;DR;
+
+Download this code;
+
+Download [idlastro](https://idlastro.gsfc.nasa.gov/) ([GitHub](https://github.com/wlandsman/IDLAstro) or [Download site](https://idlastro.gsfc.nasa.gov/ftp/));
+
+Get [ATV](https://www.physics.uci.edu/~barth/atv/) (I suggest for displaying the images);
+
+Load your data into IDL;
+
+Start modeling.
+
 ## Credits
 
 This project was started in 2000 by Prof. Dr. Carlos Roberto Rabaça in the [Observatório do Valongo/UFRJ](http://www.ov.ufrj.br/en/) in Rio de Janeiro, Brazil as astronomy undergraduate thesis of Daniel Nicolato Epitácio Pereira. [Cristiano da Rocha](https://github.com/crisdarocha) joined the group in 2001, contributing with part of the development in the use case of detection of intragroup light in groups of galaxies.
