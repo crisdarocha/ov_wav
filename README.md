@@ -10,17 +10,17 @@ For instructions on use, please see [USAGE.md](docs/USAGE.md)
 
 ## TL;DR;
 
-Download this code;
+- Download this code;
 
-Download [idlastro](https://idlastro.gsfc.nasa.gov/) ([GitHub](https://github.com/wlandsman/IDLAstro) or [Download site](https://idlastro.gsfc.nasa.gov/ftp/));
+- Download [idlastro](https://idlastro.gsfc.nasa.gov/) ([GitHub](https://github.com/wlandsman/IDLAstro) or [Download site](https://idlastro.gsfc.nasa.gov/ftp/));
 
-Get [ATV](https://www.physics.uci.edu/~barth/atv/) (I suggest for displaying the images);
+- Get [ATV](https://www.physics.uci.edu/~barth/atv/) (I suggest for displaying the images);
 
-Make sure IDL sees those packages (add to IDL_PATH);
+- Make sure IDL sees those packages (add to IDL_PATH);
 
-Load your data into IDL;
+- Load your data into IDL;
 
-Start modeling.
+- Start modeling.
 
 ## Credits
 
