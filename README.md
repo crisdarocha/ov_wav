@@ -16,6 +16,8 @@ Download [idlastro](https://idlastro.gsfc.nasa.gov/) ([GitHub](https://github.co
 
 Get [ATV](https://www.physics.uci.edu/~barth/atv/) (I suggest for displaying the images);
 
+Make sure IDL sees those packages (add to IDL_PATH);
+
 Load your data into IDL;
 
 Start modeling.
